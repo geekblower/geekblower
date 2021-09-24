@@ -6,7 +6,6 @@
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=geekblower" alt="geekblower" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/geekblower" target="blank"><img src="https://img.shields.io/twitter/follow/geekblower?logo=twitter&style=for-the-badge" alt="geekblower" /></a> </p>
-<p align="left"> <a href="https://linkeidn.com/in/geekblower" target="blank"><img src="https://img.shields.io/linkeidn/connect/geekblower?logo=linkeidn&style=for-the-badge" alt="geekblower" /></a> </p>
 
 - 🌱 I’m currently learning **node.js**
 
