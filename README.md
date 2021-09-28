@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/geekblower" target="blank"><img src="https://img.shields.io/twitter/follow/geekblower?logo=twitter&style=for-the-badge" alt="geekblower" /></a> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **react.js**
 
 - 👨‍💻 View my projects at [https://geekblower.github.io/](https://geekblower.github.io/)
 
