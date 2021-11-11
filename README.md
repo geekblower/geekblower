@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 View my projects at [https://geekblower.github.io/](https://geekblower.github.io/)
+- 👨‍💻 View my projects at [**My Portfolio**](https://geekblower.github.io/)
 
 - 📫 Reach me at **geekblower@yahoo.com**
 
-- 📄 Know about my experiences [https://geekblower.github.io/resume.html/](https://geekblower.github.io/resume.html/)
+- 📄 Know about my experiences [**My Resume**](https://geekblower.github.io/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +22,7 @@
 <a href="https://instagram.com/geekblower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekblower" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/geekblower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="geekblower" height="30" width="40" /></a>
 <a href="https://fb.com/geekblower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekblower" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/geekblower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="geekblower" height="30" width="40" /></a>
-<a href="https://codepen.io/geekblower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekblower" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/geekblower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="geekblower" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
