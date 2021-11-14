@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **reactjs**
 
-- 👨‍💻 View my projects at [**My Portfolio**](https://geekblower.github.io/)
+- 👨‍💻 View my projects at: [**My Portfolio**](https://geekblower.github.io/)
 
 - 📫 Reach me at **geekblower@yahoo.com**
 
-- 📄 Know about my experiences [**My Resume**](https://geekblower.github.io/resume.html)
+- 📄 Know about my experiences here: [**My Resume**](https://geekblower.github.io/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
