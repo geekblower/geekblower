@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Gautam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate coder and learner from Bihar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekblower&label=Profile%20views&color=0e75b6&style=flat-square" alt="geekblower" /> </p>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 View my projects at: [**My Portfolio**](https://geekblower.github.io/)
 
